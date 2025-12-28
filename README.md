@@ -5,7 +5,7 @@ This project focuses on building a Convolutional Neural Network (CNN) to classif
 
 The model learns visual patterns and features from images to accurately distinguish between authentic and manipulated content.
 
-🎯 Objectives
+-- Objectives
 
 Build a CNN-based model for image classification
 
