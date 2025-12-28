@@ -1,4 +1,5 @@
 -- Real vs Fake Image Classification using CNN
+
 -- Project Overview
 
 This project focuses on building a Convolutional Neural Network (CNN) to classify images as Real or Fake. It demonstrates the application of deep learning and computer vision techniques for binary image classification using supervised learning.
@@ -15,7 +16,7 @@ Classify images into Real and Fake categories
 
 Evaluate model performance using accuracy and loss metrics
 
-🛠️ Tech Stack
+-- Tech Stack
 
 Programming Language: Python
 
@@ -25,7 +26,7 @@ Environment: Jupyter Notebook
 
 Model Type: Convolutional Neural Network (CNN)
 
-📂 Project Structure
+-- Project Structure
 
 CNN_Project.ipynb – Model building, training, and evaluation
 
@@ -33,7 +34,7 @@ Dataset/ – Real and Fake image datasets
 
 README.md – Project documentation
 
-⚙️ Methodology
+-- Methodology
 
 Data loading and preprocessing
 
@@ -45,7 +46,7 @@ Model training and validation
 
 Performance evaluation using accuracy and loss
 
-📊 Results
+-- Results
 
 Successfully trained a CNN model for binary classification
 
@@ -53,7 +54,7 @@ Achieved reliable accuracy in distinguishing real and fake images
 
 Visualized training and validation performance
 
-▶️ How to Run
+-- How to Run
 
 Clone the repository
 
@@ -63,7 +64,7 @@ Open CNN_Project.ipynb
 
 Run all cells to train and evaluate the model
 
-📘 Learning Outcomes
+-- Learning Outcomes
 
 Hands-on experience with CNNs
 
@@ -73,7 +74,7 @@ Practical exposure to deep learning workflows
 
 Model evaluation and tuning skills
 
-🚀 Future Enhancements
+-- Future Enhancements
 
 Improve accuracy with data augmentation
 
